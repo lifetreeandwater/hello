@@ -4,7 +4,7 @@
       <el-header>Header</el-header>
       <el-main>Main</el-main>
       <el-footer>Footer</el-footer>
-      66
+      
     </el-container>
   </div>
 </template>
